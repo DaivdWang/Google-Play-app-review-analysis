@@ -1,0 +1,20 @@
+{
+  "default_country": "us",
+  "default_lang": "en",
+  "page_size": 100,
+  "max_pages": 5,
+  "stop_after_existing_pages": 2,
+  "sleep_seconds": 0.5,
+  "apps": [
+    {
+      "app_id": "com.spotify.music",
+      "country": "us",
+      "lang": "en"
+    },
+    {
+      "app_id": "com.whatsapp",
+      "country": "us",
+      "lang": "en"
+    }
+  ]
+}
