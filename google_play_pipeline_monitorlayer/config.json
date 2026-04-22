@@ -1,0 +1,15 @@
+{
+  "default_country": "us",
+  "default_lang": "en",
+  "page_size": 200,
+  "max_pages": 40,
+  "stop_after_existing_pages": 0,
+  "sleep_seconds": 0.5,
+  "apps": [
+    { "app_id": "com.instagram.android" },
+    { "app_id": "com.zhiliaoapp.musically" },
+    { "app_id": "com.spotify.music" },
+    { "app_id": "com.snapchat.android" },
+    { "app_id": "com.whatsapp" }
+  ]
+}
